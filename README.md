@@ -90,6 +90,7 @@ We're actively validating:
 ## 🔗 Quick Links
 
 - 📋 [Privacy Policy](privacy-policy.md)
+- 🤖 [Agent Specifications](./docs/agentes.md)
 - 📞 **Contact**: lauraitz@renaissanceai.mx
 - 💬 **WhatsApp Business**: [Coming Soon]
 - 🌐 **Website**:[ In Development](https://adaptive-renaissance-web.lovable.app/)
