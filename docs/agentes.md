@@ -42,7 +42,7 @@ Sistema automatizado que genera propuestas comerciales personalizadas a partir d
 - **Procesamiento:** GPT-4o para análisis de contenido
 
 ### Métricas de Valor
-> [!success] KPIs Clave
+> [!IMPORTANT] KPIs Clave
 > - ⏱️ **Tiempo de respuesta:** < 2 minutos desde lead hasta propuesta
 > - 💰 **Ahorro operativo:** 30 minutos por propuesta comercial
 > - 📊 **Tasa de éxito:** +90% sin intervención humana
@@ -79,7 +79,7 @@ Automatización completa del proceso de creación de presentaciones corporativas
 - [[Demo Francisco - Presentaciones]]
 - [[Documentación Técnica Gamma]]
 
-> [!info] Estado Actual
+> [!NOTE] Estado Actual
 > Demo funcional desarrollado por Francisco, workflow establecido, pendiente optimización para producción.
 
 ---
@@ -114,7 +114,7 @@ graph LR
     E --> F[Cliente Ganado]
 ```
 
-> [!tip] Capacidad Actual
+> [!TIP] Capacidad Actual
 > Sistema activo con WhatsApp Business integrado. Puede conectarse con cualquier CRM empresarial existente mediante APIs.
 
 ---
@@ -155,7 +155,7 @@ Automatización completa de la organización y categorización de documentos emp
 - **Análisis de contenido:** Mediante LLM
 - **Archivo automático:** En carpetas correspondientes
 
-> [!note] Automatización Inteligente
+> [!NOTE] Automatización Inteligente
 > El sistema puede clasificar y mover documentos automáticamente usando análisis de contexto. Ideal para empresas que manejan grandes volúmenes de documentación.
 
 ---
@@ -180,7 +180,7 @@ Sistema que automatiza el proceso completo de generación de facturas a partir d
 - [ ] Sistemas ERP empresariales
 - [ ] Notificaciones automáticas
 
-> [!warning] En Desarrollo
+> [!WARNING] En Desarrollo
 > Este agente está en fase de especificación técnica. Requiere validación con plataformas de facturación mexicanas.
 
 ---
@@ -253,7 +253,7 @@ Generación automatizada de boletines especializados por sector industrial con c
 - **Mantenimiento mínimo:** Checkpoints trimestrales
 - **Personalización:** Adaptado a cada industria
 
-> [!example] Caso de Éxito Típico
+> [!NOTE] Caso de Éxito Típico
 > Cliente del sector legal: Automatización de generación de contratos redujo tiempo de respuesta de 2 días a 15 minutos, incrementando satisfacción del cliente en 40%.
 
 ---
@@ -333,7 +333,7 @@ Generación automatizada de boletines especializados por sector industrial con c
 ---
 ## NOTAS ADICIONALES PARA ISAÍAS
 
-> [!quote] Objetivo Principal
+> [!IMPORTANT] Objetivo Principal
 > "Crear un sistema de agentes que funcione como el copiloto estratégico de cada negocio"
 
 ### Puntos Clave para Ventas
